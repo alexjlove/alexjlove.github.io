@@ -10,8 +10,7 @@ permalink: /about/
 
  I have served as the recruitment chair for my fraternity, Delta Chi, providing me with experience in leadership and interpersonal skills and have had extensive volunteer experience working with my local Rotary Club, school district, and parks department.
 
-## Skills:
-
+### Skills:
 
 - **Programming**: Python | SQL
 - **Data Cleaning and Munging**: Pandas | NumPy
