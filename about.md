@@ -12,7 +12,7 @@ permalink: /about/
 
 ## Skills:
 
-- 
+
 - **Programming**: Python | SQL
 - **Data Cleaning and Munging**: Pandas | NumPy
 - **Machine Learning, Statistical Modeling**: Scikit-learn | statsmodels
