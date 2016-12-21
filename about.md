@@ -11,13 +11,14 @@ permalink: /about/
  I have served as the recruitment chair for my fraternity, Delta Chi, providing me with experience in leadership and interpersonal skills and have had extensive volunteer experience working with my local Rotary Club, school district, and parks department.
 
 ## Skills:
-* Programming: Python | SQL
-* Data Cleaning and Munging: Pandas | NumPy
-* Machine Learning, Statistical Modeling: Scikit-learn | statsmodels
-* Visualization: Matplotlib | Seaborn | Tableau
-* Big Data and Data Extraction: Hadoop | Spark | AWS | Hive | PostgreSQL
-* Web Scraping: Beautiful Soup | Regex | urllib2 | Natural Language Processing
-* Distributed Version Control: Git & GitHub
+
+- **Programming**: Python | SQL
+- **Data Cleaning and Munging**: Pandas | NumPy
+- **Machine Learning, Statistical Modeling**: Scikit-learn | statsmodels
+- **Visualization**: Matplotlib | Seaborn | Tableau
+- **Big Data and Data Extraction**: Hadoop | Spark | AWS | Hive | PostgreSQL
+- **Web Scraping**: Beautiful Soup | Regex | urllib2 | Natural Language Processing
+- **Distributed Version Control**: Git & GitHub
 
 ### Contact me
 
