@@ -12,12 +12,12 @@ permalink: /about/
 
 ### Skills:
 
-- **Programming**: Python | SQL
-- **Data Cleaning and Munging**: Pandas | NumPy
-- **Machine Learning, Statistical Modeling**: Scikit-learn | statsmodels
-- **Visualization**: Matplotlib | Seaborn | Tableau
-- **Big Data and Data Extraction**: Hadoop | Spark | AWS | Hive | PostgreSQL
-- **Web Scraping**: Beautiful Soup | Regex | urllib2 | Natural Language Processing
+- **Programming**: Python \| SQL
+- **Data Cleaning and Munging**: Pandas \| NumPy
+- **Machine Learning, Statistical Modeling**: Scikit-learn \| statsmodels
+- **Visualization**: Matplotlib \| Seaborn \| Tableau
+- **Big Data and Data Extraction**: Hadoop \| Spark \| AWS \| Hive \| PostgreSQL
+- **Web Scraping**: Beautiful Soup \| Regex \| urllib2 \| Natural Language Processing
 - **Distributed Version Control**: Git & GitHub
 
 ### Contact me
