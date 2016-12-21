@@ -1,11 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: University Freshman Group Scheduling and Pairing
 ---
 
-## Summary:
-
-Worked with the university’s First-Year Program office developing a program that found an optimal assignment between Freshmen General Studies classes and student leaders that maximized student leader’s preferences while adhering to a number of scheduling constraints and administrative priorities. Program was developed using SageMath and various combinatoric optimization algorithms.
+*Worked with the university’s First-Year Program office developing a program that found an optimal assignment between Freshmen General Studies classes and student leaders that maximized student leader’s preferences while adhering to a number of scheduling constraints and administrative priorities. Program was developed using SageMath and various combinatoric optimization algorithms.*
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
